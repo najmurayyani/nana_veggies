@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ProjectUjian</string>
+    <string name="utama">Pilihan Segar Untuk Kesehatan Keluarga</string>
+    <string name="pilihan">Pilih Produk</string>
+    <string name="pencarian">Temukan berbagai macam sayuran untuk kebutuhan Anda</string>
+    <string name="bayar">Melakukan Pembayaran</string>
+    <string name="berhasil">Pembayaran Anda telah berhasil!!</string>
+    <string name="dapat">Dapatkan Pesanan Anda</string>
+    <string name="tepat">Pesanan Anda akan dikirim oleh kurir kami, semoga pesanannya sampai diwaktu yang tepat!</string>
+    <string name="percaya">PERCAYAKAN BAHAN PANGAN ANDA KEPADA KAMI</string>
+    <string name="selamat">SELAMAT!!!</string>
+    <string name="anda_berhasil">Anda berhasil melakukan pembayaran, nikmati layanan kami!</string>
+    <string name="datang">Selamat datang kembali!</string>
+    <string name="lupa">Lupa Kata Sandi?</string>
+    <string name="masuk">Masuk</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="daftar">Daftar</string>
+    <string name="membuat">Silahkan Membuat akun</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="show">Show Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="klik">Dengan mengklik tombol Daftar, Anda menyetujui penawaran umum</string>
+    <string name="buat">Buat Akun</string>
+    <string name="punya">Saya Sudah Memiliki Akun</string>
+    <string name="login">Login</string>
+    <string name="pengaturan">Pengaturan Menu</string>
+    <string name="info_pribadi">Info Pribadi</string>
+    <string name="keluar">Keluar</string>
+    <string name="metode_pembayaran">Metode Pembayaran</string>
+    <string name="bank">Bank</string>
+    <string name="cod">Cash On Delivery</string>
+    <string name="alamat">Alamat</string>
+    <string name="tambah_alamat">Tambah Alamat Baru</string>
+    <string name="alamat_satu">JL. Syech Abdurrauf No.3, Kopelma Darussalam, Kec. Syiah Kuala, Kota Banda Aceh, Aceh 23111</string>
+    <string name="simpan">Simpan</string>
+    <string name="admin">Admin</string>
+    <string name="admin_edit">Admin</string>
+    <string name="info_pengguna">INFO PRIBADI</string>
+    <string name="profil_pengguna">Profil Pengguna</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="simpan2">Simpan</string>
+    <string name="semua_pesanan">Semua Pesanan</string>
+
+</resources>
